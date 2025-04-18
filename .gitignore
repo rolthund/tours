@@ -2,3 +2,7 @@ node_modules/
 public/
 dev_data/
 *.env
+eslintrc.json
+package-lock.json
+package.json
+.prettierrc
