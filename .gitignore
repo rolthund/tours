@@ -1,2 +1,4 @@
 node_modules/
+public/
+dev_data/
 *.env
